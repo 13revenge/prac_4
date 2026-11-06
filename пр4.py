@@ -1,2 +1,2 @@
-x = 'qq world'
+x = 'qq gg'
 print(x)
